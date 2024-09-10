@@ -2,7 +2,7 @@ Olá! 👋
 
 Eu sou Jessika, uma apaixonada por tecnologia e design, aqui do Rio Grande do Sul. Sou formada em Técnico em Informática e atualmente curso Sistemas de Informação na Antonio Meneghetti Faculdade e Design Gráfico na EBAC. Além de adorar tecnologia, também sou apaixonada por animais e adoro compartilhar conhecimento com a comunidade através de posts, vídeos e projetos open source.
 
-![Descrição do GIF](imagens/img.gif)
+![Descrição do GIF](imagens/dg8idr3-46121b2a-2beb-4f64-9caa-0d046f39eac0.gif)
 
 ### 🚀 Tecnologias e Ferramentas que Utilizo:
 
