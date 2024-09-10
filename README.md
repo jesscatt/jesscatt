@@ -6,7 +6,7 @@ na Antonio Meneghetti Faculdade e Design Gráfico na EBAC. Além de adorar tecno
 também sou apaixonada por animais e gosto de adquirir conhecimento através de vídeos e outras formas.
 
 <div style="display: flex; align-items: center;">
-  <p style="margin-right: 10px;">Veja o GIF abaixo:</p>
+  <p style="margin-right: 10px;"></p>
   <img src="imagens/dg8idr3-46121b2a-2beb-4f64-9caa-0d046f39eac0.gif" alt="Descrição do GIF" style="width: 150px; height: auto;">
 </div>
 
