@@ -23,6 +23,6 @@ Eu sou Jessika, uma apaixonada por tecnologia e design, aqui do Rio Grande do Su
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://www.linkedin.com/in/jessikacatharinajardimrodrigues/)
-[![Instagram](https://www.instagram.com/jessika.cjr?igsh=MW4wYWJsa2N0dnphZQ%3D%3D&utm_source=qr)
-[![Behance](https://www.behance.net/jessikajess)
+[![LinkedIn](https://www.linkedin.com/in/jessikacatharinajardimrodrigues/)]
+[![Instagram](https://www.instagram.com/jessika.cjr?igsh=MW4wYWJsa2N0dnphZQ%3D%3D&utm_source=qr)]
+[![Behance](https://www.behance.net/jessikajess)]
