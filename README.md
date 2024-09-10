@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Eu sou [Seu Nome], um apaixonado por tecnologia e desenvolvimento de software. Trabalho com **[área ou função]** desde [ano], e adoro compartilhar conhecimento com a comunidade através de **posts, vídeos** e **projetos open source**.
+Eu sou Jessika, um apaixonado por tecnologia e desenvolvimento de software. Trabalho com **[área ou função]** desde [ano], e adoro compartilhar conhecimento com a comunidade através de **posts, vídeos** e **projetos open source**.
 
 ---
 
@@ -35,7 +35,6 @@ Eu sou [Seu Nome], um apaixonado por tecnologia e desenvolvimento de software. T
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/seu-canal/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram/)
-[![Behance](https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/seu-perfil)
+[![LinkedIn](https://www.linkedin.com/in/jessikacatharinajardimrodrigues/)
+[![Instagram](https://www.instagram.com/jessika.cjr?igsh=MW4wYWJsa2N0dnphZQ%3D%3D&utm_source=qr)
+[![Behance](https://www.behance.net/jessikajess)
