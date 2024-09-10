@@ -1,8 +1,8 @@
-# Olá! 👋
+Olá! 👋
 
-Eu sou Jessika, um apaixonado por tecnologia e desenvolvimento de software. Trabalho com **[área ou função]** desde [ano], e adoro compartilhar conhecimento com a comunidade através de **posts, vídeos** e **projetos open source**.
+Eu sou Jessika, uma apaixonada por tecnologia e design, aqui do Rio Grande do Sul. Sou formada em Técnico em Informática e atualmente curso Sistemas de Informação na Antonio Meneghetti Faculdade e Design Gráfico na EBAC. Além de adorar tecnologia, também sou apaixonada por animais e adoro compartilhar conhecimento com a comunidade através de posts, vídeos e projetos open source.
 
----
+
 
 ### 🚀 Tecnologias e Ferramentas que Utilizo:
 
