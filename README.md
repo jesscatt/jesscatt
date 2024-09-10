@@ -22,18 +22,6 @@ Eu sou Jessika, uma apaixonada por tecnologia e design, aqui do Rio Grande do Su
 
 ---
 
-### 📢 Artigos Recentes
-- [Como começar com o GitHub Actions](link-do-artigo)
-- [Melhores práticas de Java](link-do-artigo)
-
----
-
-### 📺 Últimos Vídeos no YouTube:
-- [Introdução ao Node.js](link-do-video)
-- [Como criar uma API RESTful](link-do-video)
-
----
-
 ### 📫 Como me encontrar:
 [![LinkedIn](https://www.linkedin.com/in/jessikacatharinajardimrodrigues/)
 [![Instagram](https://www.instagram.com/jessika.cjr?igsh=MW4wYWJsa2N0dnphZQ%3D%3D&utm_source=qr)
