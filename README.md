@@ -5,7 +5,7 @@
 Eu sou a **Jessika**, direto do **Rio Grande do Sul** pro mundo da **tecnologia e design** 💙
 
 🎓 **Sistemas de Informação** na Antonio Meneghetti Faculdade  
-🎨 **Graphic Design** na EBAC  
+
 
 Curiosa por natureza: tutoriais, vídeos, cursos online… o que tiver, eu tô explorando! Amo unir o lado técnico com o criativo nos meus projetos 🚀
 
